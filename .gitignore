@@ -1,0 +1,53 @@
+```gitignore
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/cache/
+
+# Ignore raw datasets
+CourseraDataset-Clean.csv
+CourseraDataset-Unclean.csv
+courses.csv
+courses.yaml
+full_courses_dataset.csv
+Online_Courses.csv
+reviews_clean.csv
+reviews.yaml
+```
