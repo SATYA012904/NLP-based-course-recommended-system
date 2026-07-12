@@ -3,6 +3,12 @@
 An intelligent course recommendation system that suggests relevant online courses based on a user's interests using **Natural Language Processing (NLP)** and **Sentence Transformers**. The system understands the semantic meaning of user queries and recommends the most relevant courses from a curated dataset.
 
 ---
+## 🚀 Live Demo
+
+Experience the Course Recommendation System online without any installation.
+
+🔗 **Live Application:**  
+https://nlp-based-course-recommended-system-chnafdjxfiocxgpf4e6nq5.streamlit.app/
 
 ## 📌 Features
 
